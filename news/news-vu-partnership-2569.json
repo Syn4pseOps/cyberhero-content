@@ -1,0 +1,112 @@
+{
+  "slug": "news-vu-partnership-2569",
+  "category": "event",
+  "date": "2026-10-05",
+  "title": "สมาคมไซเบอร์ฮีโร่ หารือแนวทางสร้างความร่วมมือกับมหาวิทยาลัยวงษ์ชวลิตกุล",
+  "title_highlight": "มหาวิทยาลัยวงษ์ชวลิตกุล",
+  "summary": "ผู้แทนสมาคมเข้าพบคณาจารย์ คณะวิศวกรรมศาสตร์และสถาปัตยกรรมศาสตร์ หารือการส่งเสริมความรู้และทักษะด้านความปลอดภัยไซเบอร์ให้นักศึกษา",
+  "location": "มหาวิทยาลัยวงษ์ชวลิตกุล นครราชสีมา",
+  "body": [
+    "วันที่ 5 ตุลาคม 2569 คุณวณสัณฑ์ ศรีสร้อย กรรมการและประชาสัมพันธ์ สมาคมไซเบอร์ฮีโร่ เป็นผู้แทนสมาคม เข้าพบ อาจารย์ธวัธชัย ชาญสูงเนิน รองคณบดีฝ่ายวิชาการและนวัตกรรม และ อาจารย์ทศพล ปราชญ์ปรีชา อาจารย์ประจำสาขาวิทยาการคอมพิวเตอร์ คณะวิศวกรรมศาสตร์และสถาปัตยกรรมศาสตร์ มหาวิทยาลัยวงษ์ชวลิตกุล",
+    "การหารือครั้งนี้มีเป้าหมายเพื่อแลกเปลี่ยนแนวคิดและแนวทางในการสร้างความร่วมมือระหว่างสองหน่วยงาน โดยมุ่งส่งเสริมองค์ความรู้ ทักษะ และประสบการณ์ด้านความปลอดภัยไซเบอร์ให้แก่นักศึกษา รวมถึงการเตรียมความพร้อมให้เยาวชนสามารถรับมือกับภัยคุกคามทางไซเบอร์ที่มีความซับซ้อนและเปลี่ยนแปลงอยู่ตลอดเวลา",
+    "ความร่วมมือจากภาคการศึกษาและภาคเครือข่ายด้านไซเบอร์ จะเป็นอีกหนึ่งพลังสำคัญในการพัฒนากำลังคนและสร้างสังคมดิจิทัลที่ปลอดภัยอย่างยั่งยืน"
+  ],
+  "quote": "Together, We Build Cyber Heroes.",
+  "facts": [
+    {
+      "label": "วันที่",
+      "value": "5 ตุลาคม 2569"
+    },
+    {
+      "label": "สถานที่",
+      "value": "คณะวิศวกรรมศาสตร์และสถาปัตยกรรมศาสตร์ มหาวิทยาลัยวงษ์ชวลิตกุล"
+    },
+    {
+      "label": "ผู้แทนสมาคม",
+      "value": "คุณวณสัณฑ์ ศรีสร้อย"
+    },
+    {
+      "label": "หัวข้อหารือ",
+      "value": "ส่งเสริมความรู้และทักษะด้านความปลอดภัยไซเบอร์ให้แก่นักศึกษา"
+    }
+  ],
+  "side": {
+    "file": "meeting-s.webp",
+    "full": "meeting.webp",
+    "width": 800,
+    "height": 497,
+    "alt": "ผู้แทนสมาคมไซเบอร์ฮีโร่และคณาจารย์มหาวิทยาลัยวงษ์ชวลิตกุล",
+    "caption": "ผู้แทนสมาคมไซเบอร์ฮีโร่ร่วมกับคณาจารย์ คณะวิศวกรรมศาสตร์และสถาปัตยกรรมศาสตร์ มหาวิทยาลัยวงษ์ชวลิตกุล"
+  },
+  "card_image": {
+    "file": "meeting-s.webp",
+    "width": 800,
+    "height": 497
+  },
+  "og_image": "og.jpg",
+  "facebook": "https://www.facebook.com/share/p/19VCuTGyrM/",
+  "related": [
+    {
+      "label": "ข่าวก่อนหน้า: หารือความร่วมมือ มทส.",
+      "url": "news-sut-boardgame-2569.html"
+    }
+  ],
+  "events": {
+    "label": "ความร่วมมือ",
+    "title": "หารือความร่วมมือกับมหาวิทยาลัยวงษ์ชวลิตกุล",
+    "loc": "คณะวิศวกรรมศาสตร์และสถาปัตยกรรมศาสตร์ · นครราชสีมา"
+  },
+  "nowrap": [
+    "ความร่วมมือ",
+    "นครราชสีมา",
+    "มหาวิทยาลัยวงษ์ชวลิตกุล"
+  ],
+  "names": [
+    "คุณวณสัณฑ์ ศรีสร้อย",
+    "อาจารย์ทศพล ปราชญ์ปรีชา",
+    "อาจารย์ธวัธชัย ชาญสูงเนิน"
+  ],
+  "en": {
+    "title": "Cyber Hero Association discusses a partnership with Vongchavalitkul University",
+    "title_highlight": "Vongchavalitkul University",
+    "summary": "The association’s representative met lecturers of the Faculty of Engineering and Architecture to discuss building cybersecurity knowledge and skills among students.",
+    "location": "Vongchavalitkul University, Nakhon Ratchasima",
+    "body": [
+      "On 5 October 2026, คุณวณสัณฑ์ ศรีสร้อย, committee member and public relations officer, represented the Cyber Hero Association in a meeting with อาจารย์ธวัธชัย ชาญสูงเนิน, Associate Dean for Academic Affairs and Innovation, and อาจารย์ทศพล ปราชญ์ปรีชา, lecturer in Computer Science, Faculty of Engineering and Architecture, Vongchavalitkul University.",
+      "The meeting was an exchange of ideas on how the two organisations can work together to give students cybersecurity knowledge, skills and experience, and to prepare young people for cyber threats that keep growing more complex and changing all the time.",
+      "Cooperation between education and the cyber community is another important force for developing skilled people and building a lastingly safe digital society."
+    ],
+    "facts": [
+      {
+        "label": "Date",
+        "value": "5 October 2026"
+      },
+      {
+        "label": "Venue",
+        "value": "Faculty of Engineering and Architecture, Vongchavalitkul University"
+      },
+      {
+        "label": "Association representative",
+        "value": "คุณวณสัณฑ์ ศรีสร้อย"
+      },
+      {
+        "label": "Topic",
+        "value": "Cybersecurity knowledge and skills for students"
+      }
+    ],
+    "related": [
+      {
+        "label": "Previous: partnership talks with Suranaree University of Technology",
+        "url": "news-sut-boardgame-2569.html"
+      }
+    ],
+    "events": {
+      "label": "Partnership",
+      "title": "Partnership talks with Vongchavalitkul University",
+      "loc": "Faculty of Engineering and Architecture · Nakhon Ratchasima"
+    },
+    "side_alt": "Cyber Hero Association representative with lecturers of Vongchavalitkul University",
+    "side_caption": "The association’s representative with lecturers of the Faculty of Engineering and Architecture, Vongchavalitkul University"
+  },
+  "published_at": "2026-10-06T21:14:24+07:00"
+}

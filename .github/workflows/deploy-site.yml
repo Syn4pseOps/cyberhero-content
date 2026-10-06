@@ -1,0 +1,22 @@
+# Rebuild cyberhero.or.th whenever the news in this repository change (the website's deploy
+# reads this repository). Repository secret SITE_DEPLOY_TOKEN: fine-grained token limited to
+# Syn4pseOps/cyberhero-web with "Actions: Read and write" only (it can start the deploy, it
+# cannot change any file). No third-party actions: gh is preinstalled on GitHub's runners.
+name: Deploy website
+
+on:
+  push:
+    branches: [main]
+    paths: ["news/**"]
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  deploy:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Start the website deploy
+        env:
+          GH_TOKEN: ${{ secrets.SITE_DEPLOY_TOKEN }}
+        run: gh workflow run deploy.yml --repo Syn4pseOps/cyberhero-web --ref main
