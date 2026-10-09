@@ -33,13 +33,13 @@
       "value": "เทศบาลนครเชียงราย (เกียรติบัตรเชิดชูเกียรติจากนายกรัฐมนตรี)"
     }
   ],
-  "lead": {
-    "file": "p-ca95a6b2e4.webp",
+  "side": {
+    "file": "p-ca95a6b2e4-s.webp",
     "full": "p-ca95a6b2e4.webp",
-    "width": 1239,
-    "height": 788,
+    "width": 800,
+    "height": 509,
     "alt": "ผู้แทนสมาคมไซเบอร์ฮีโร่และผู้บริหารเทศบาลนครเชียงราย ถือเกียรติบัตรและถ้วยรางวัล PM Awards 2026 ณ สำนักงานเทศบาลนครเชียงราย",
-    "focus": "50% 20%"
+    "caption": "สมาคมไซเบอร์ฮีโร่เข้าพบนายกเทศมนตรีนครเชียงราย และมอบเกียรติบัตรเชิดชูเกียรติจากนายกรัฐมนตรีแก่เทศบาลนครเชียงราย ณ สำนักงานเทศบาลนครเชียงราย"
   },
   "card_image": {
     "file": "p-ca95a6b2e4-s.webp",
@@ -66,7 +66,8 @@
     "นายวินัย โซนี่"
   ],
   "en": {
-    "lead_alt": "Cyber Hero Association representatives and Chiang Rai City Municipality executives with the PM Awards 2026 certificates and trophy at the Chiang Rai City Municipality office"
+    "side_alt": "Cyber Hero Association representatives and Chiang Rai City Municipality executives with the PM Awards 2026 certificates and trophy at the Chiang Rai City Municipality office",
+    "side_caption": "The Cyber Hero Association meets the Mayor of Chiang Rai City and presents the Prime Minister's certificate of honour to Chiang Rai City Municipality"
   },
   "published_at": "2026-10-09T17:55:31+07:00"
 }
